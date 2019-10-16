@@ -64,7 +64,7 @@ GEM
       nokogiri (>= 1.5.9)
     mail (2.7.1)
       mini_mime (>= 0.1.1)
-    many_versioned_gem (0.2.2)
+    many_versioned_gem (0.2.3)
       sinatra (= 2.0.1)
       yajl-ruby (= 1.3.1)
     marcel (0.3.3)
@@ -138,7 +138,7 @@ PLATFORMS
 DEPENDENCIES
   consul (= 1.0.2)
   haml (~> 4.0.0)
-  many_versioned_gem (= 0.2.2)
+  many_versioned_gem (= 0.2.3)
   netaddr (= 2.0.3)
 
 BUNDLED WITH
